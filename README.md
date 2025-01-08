@@ -1,6 +1,6 @@
-# E-Commerce Analysis Project (Python-[Plotly])
+# E-Commerce Analysis Project (Python)
 ## Project Title: E-Commerce Sales Analysis
-This project analyzes sales data from an e-commerce store to uncover trends and insights that can drive business decisions.
+This project analyzes sales data from an e-commerce store to uncover trends and insights that can drive business decisions through various Python libraries like Pandas, NumPy, Matplotlib, Seaborn.
 ## Features:
 - Sales performance analysis
 - Category-wise and sub category-wise breakdown
